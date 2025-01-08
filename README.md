@@ -26,4 +26,4 @@ The contents of the zip file may vary, but should contain these essential compon
 
 ## License
 
-All project zip files contain license information. The license used is Creative Commons Attribution license 4.0. Please feel free to use the drawings but remember to attribute Copenhagen Atomics. :smile:
+All project zip files contain license information. The license used is Creative Commons Attribution license 4.0. Please feel free to use the drawings but remember to attribute Copenhagen Atomics. :smiley:
