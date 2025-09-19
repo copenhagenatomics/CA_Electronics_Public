@@ -10,6 +10,7 @@ Each board type has its own project folder, as shown in the tree below:
   - project         - Project folder
     - sub-project   - Sub-project folder
   - AnotherProject  - Project folder
+- datasheets        - datasheet for latest version of each board
 
 Each project/sub-project folder contains versioned .zip files with the relevant information.
 
